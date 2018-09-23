@@ -1,1 +1,1 @@
-# these are solutions to problems 001 to 010
+# These are solutions and notes for problems 001 - 050
